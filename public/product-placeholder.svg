@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-labelledby="title">
+  <title id="title">Milano Bag product placeholder</title>
+  <rect width="800" height="1000" fill="#f3f2f5"/>
+  <circle cx="400" cy="460" r="280" fill="#e9e7ee"/>
+  <g fill="none" stroke="#06033b" stroke-width="12">
+    <path d="M330 265v-48c0-35 28-63 63-63h14c35 0 63 28 63 63v48"/>
+    <rect x="245" y="260" width="310" height="500" rx="58"/>
+    <path d="M300 290v440M500 290v440"/>
+    <circle cx="315" cy="795" r="20" fill="#06033b"/>
+    <circle cx="485" cy="795" r="20" fill="#06033b"/>
+  </g>
+  <text x="400" y="890" text-anchor="middle" fill="#06033b" font-family="Arial, sans-serif" font-size="34" letter-spacing="9">MILANO BAG</text>
+</svg>
