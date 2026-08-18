@@ -1,4 +1,4 @@
-export const WHATSAPP_NUMBER = "201094976357";
+export const WHATSAPP_NUMBER = "201068084654";
 
 export function handleContactProduct(product, language = "ar") {
   const productName =

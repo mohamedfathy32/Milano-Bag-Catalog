@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 import useI18n from "../../hooks/useI18n";
 import BrandLogo from "./BrandLogo";
 
-const WHATSAPP_URL = "https://wa.me/201094976357";
+const WHATSAPP_URL = "https://wa.me/201068084654";
 
 export default function Footer() {
   const { t } = useI18n();
