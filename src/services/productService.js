@@ -17,7 +17,7 @@ function localizedText(value) {
 
 function normalizeCategory(data) {
   const value = String(data.category || data.material || "").toUpperCase();
-  return value === "ABS" ? "ABC" : value;
+  return value === "ABC" ? "ABS" : value;
 }
 
 function normalizeGallery(data) {

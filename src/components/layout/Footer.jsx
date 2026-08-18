@@ -16,7 +16,7 @@ export default function Footer() {
         <div>
           <h2>{t("footer.collections")}</h2>
           <Link to="/pp">{t("common.collection", { category: "PP" })}</Link>
-          <Link to="/abc">{t("common.collection", { category: "ABC" })}</Link>
+          <Link to="/abs">{t("common.collection", { category: "ABS" })}</Link>
           <Link to="/pc">{t("common.collection", { category: "PC" })}</Link>
         </div>
         <div>

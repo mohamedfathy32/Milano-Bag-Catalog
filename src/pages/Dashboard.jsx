@@ -70,7 +70,7 @@ export default function Dashboard() {
           }
           return counts;
         },
-        { PP: 0, ABC: 0, PC: 0 },
+        { PP: 0, ABS: 0, PC: 0 },
       ),
     [products],
   );

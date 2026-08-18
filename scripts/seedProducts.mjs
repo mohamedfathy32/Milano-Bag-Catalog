@@ -24,9 +24,9 @@ const models = [
   ["pp-111", "Model 111", "PP", ["21", "25", "29"], true],
   ["pp-205", "Model 205", "PP", ["20", "24", "28"], true],
   ["pp-310", "Model 310", "PP", ["20", "24", "28"], false],
-  ["abc-420", "Model 420", "ABC", ["20", "24", "28"], true],
-  ["abc-515", "Model 515", "ABC", ["21", "25", "29"], false],
-  ["abc-620", "Model 620", "ABC", ["20", "24", "28"], false],
+  ["abs-420", "Model 420", "ABS", ["20", "24", "28"], true],
+  ["abs-515", "Model 515", "ABS", ["21", "25", "29"], false],
+  ["abs-620", "Model 620", "ABS", ["20", "24", "28"], false],
   ["pc-710", "Model 710", "PC", ["20", "24", "28"], true],
   ["pc-825", "Model 825", "PC", ["21", "25", "29"], false],
   ["pc-930", "Model 930", "PC", ["20", "24", "28"], false],
@@ -35,7 +35,7 @@ const models = [
 function createProduct([slug, sku, category, sizes, featured]) {
   const materialNames = {
     PP: "pure polypropylene",
-    ABC: "premium composite",
+    ABS: "premium composite",
     PC: "lightweight polycarbonate",
   };
   return {

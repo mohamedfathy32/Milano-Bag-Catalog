@@ -229,7 +229,7 @@ export default function DashboardProductForm({
                 onChange={(event) => updateField("category", event.target.value)}
               >
                 <option value="PP">PP</option>
-                <option value="ABC">ABC</option>
+                <option value="ABS">ABS</option>
                 <option value="PC">PC</option>
               </select>
             </label>

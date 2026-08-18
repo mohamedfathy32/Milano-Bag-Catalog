@@ -93,7 +93,7 @@ function CatalogRoutes() {
           <Route path="/" element={<Home />} />
           <Route path="/products" element={<Products />} />
           <Route path="/pp" element={<Category category="PP" />} />
-          <Route path="/abc" element={<Category category="ABC" />} />
+          <Route path="/abs" element={<Category category="ABS" />} />
           <Route path="/pc" element={<Category category="PC" />} />
           <Route path="/product/:slug" element={<ProductDetails />} />
           <Route path="/search" element={<Search />} />

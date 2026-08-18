@@ -9,7 +9,7 @@ import { clearProductsCache } from "./productService";
 
 const CATEGORY_MAP = {
   PP: "PP",
-  ABS: "ABC",
+  ABS: "ABS",
   PC: "PC",
 };
 

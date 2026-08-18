@@ -7,7 +7,7 @@ import { useAllProducts, useFeaturedProducts } from "../hooks/useProducts";
 
 const CATEGORIES = [
   { id: "PP", path: "/pp" },
-  { id: "ABC", path: "/abc" },
+  { id: "ABS", path: "/abs" },
   { id: "PC", path: "/pc" },
 ];
 

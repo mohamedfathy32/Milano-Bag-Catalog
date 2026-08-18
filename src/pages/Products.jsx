@@ -4,7 +4,7 @@ import { ErrorState, ProductGridSkeleton } from "../components/ui/CatalogStates"
 import useI18n from "../hooks/useI18n";
 import { useAllProducts } from "../hooks/useProducts";
 
-const FILTERS = ["All", "PP", "ABC", "PC"];
+const FILTERS = ["All", "PP", "ABS", "PC"];
 
 export default function Products() {
   const { localize, t } = useI18n();

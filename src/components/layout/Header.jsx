@@ -8,7 +8,7 @@ const NAV_ITEMS = [
   ["/", "nav.home"],
   ["/products", "nav.products"],
   ["/pp", "PP"],
-  ["/abc", "ABC"],
+  ["/abs", "ABS"],
   ["/pc", "PC"],
 ];
 
